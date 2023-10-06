@@ -15,15 +15,10 @@ body {
 
 /* Style the header and navigation menu */
 header {
-    background-color: #333;
+   
     color: #fff;
     padding: 10px 0;
     text-align: center;
-    background-image: url(C:\Users\710114\Documents\harveyw940.github.io\Green.gif);
-    background-size: cover;
-    height: 100vh;
-    background-position: center;
-    font-family: Arial, sans-serif;
 }
 
 nav ul {
