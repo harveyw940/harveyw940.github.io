@@ -9,8 +9,6 @@ body {
     background-color: #f0f0f0;
     color: #333;
     font-family: Arial, sans-serif;
-    background-image: url(Green.gif)
-    
 }
 
 /* Style the header and navigation menu */
@@ -68,4 +66,8 @@ footer {
 footer img {
     width: 30px;
     height: 30px;
+}
+
+body {
+    background-image: url(C:\Users\710114\Documents\harveyw940.github.io\Green.gif)
 }
