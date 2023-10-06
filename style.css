@@ -69,5 +69,9 @@ footer img {
 }
 
 body {
-    background-image: url(C:\Users\710114\Documents\harveyw940.github.io\Cat.jpg)
+    background-image: url(Green.gif);
+    background-size: cover;
+    height: 100vh;
+    background-position: center
+
 }
